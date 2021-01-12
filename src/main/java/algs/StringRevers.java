@@ -17,7 +17,7 @@ public class StringRevers {
 
     @Test
     public void testRevers() {
-        String forRevers = "1234567890";
+        String forRevers = "12345678";
         String expected = "87654321";
         String actual;
         StringRevers stringRevers = new StringRevers();
